@@ -7,3 +7,5 @@ sudo apt install nginx
 sudo systemctl enable --now nginx
 
 Web page is kept at /var/www/html
+
+Change in README in remote
